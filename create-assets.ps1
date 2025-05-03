@@ -1,3 +1,7 @@
+# https://github.com/Leproide/
+# https://github.com/itflow-org/itflow
+# This script is distributed "as is" under the GPL v2.0 License, WITHOUT WARRANTY OF ANY KIND
+
 # API credentials and endpoint
 $apiKey  = 'CHANGEME'
 $siteUrl = 'https://itflow.changeme.com'
