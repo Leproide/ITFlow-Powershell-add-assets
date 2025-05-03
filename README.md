@@ -75,5 +75,4 @@ Feel free to fork and submit pull requests for improvements or bug fixes.
 
 ### License
 
-This project is licensed under the GPL v2 license
-
+This script is distributed "as is" under the GPL v2.0 License, WITHOUT WARRANTY OF ANY KIND
