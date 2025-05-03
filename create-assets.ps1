@@ -1,4 +1,4 @@
-# Parameters
+# API credentials and endpoint
 $apiKey  = 'CHANGEME'
 $siteUrl = 'https://itflow.changeme.com'
 $module  = '/api/v1/assets/create.php'
